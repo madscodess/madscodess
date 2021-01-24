@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Maddie 👋
 
-<!--
-**madscodess/madscodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="200px" src="https://camo.githubusercontent.com/9ade64e11a552681b4085259e9ff127659b1be6a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966"/>
 
-Here are some ideas to get you started:
+- 🔭 Computer Forensics and Security gradute 
+- 🌱 I’m currently learning JavaScript along side HTML & CSS
+- ⚡ Other Stuff:
+<br> 
+<br>
+I'm looking into:
+- Cloud-based Signature Detection techniques
+- Mobile Application Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="madsjdevs | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
+ 
+[instagram]: https://instagram.com/madscodes
+
+
