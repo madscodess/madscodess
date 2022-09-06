@@ -4,12 +4,6 @@
 
 - 🔭 Computer Forensics and Security graduate 
 - 🌱 I’m currently learning HTML & CSS along side JavaScript
-- ⚡ Other Stuff:
-<br> 
-<br>
-I'm looking into:
-- Cloud-based Signature Detection techniques
-- Mobile Application Development
 
 ### Connect with me:
 
