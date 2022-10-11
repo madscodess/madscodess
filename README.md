@@ -2,7 +2,9 @@
 ### Hello  👋
 My name is Maddie. I am on a journey to learn as much as I can about everything!, working full time and studying programming in between
 
-- I'm currently pursuing a front-end developer roadmap.
+- I'm currently pursuing a front-end developer roadmap using the following resources: 
+- :orange_book: [OdinProject](https://www.theodinproject.com/paths)
+- :books: [The Web Developer Bootcamp 2022 by Colt Steel](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 🌍  I'm based in England! 
 <br>
