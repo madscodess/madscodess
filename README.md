@@ -6,7 +6,7 @@ My name is Maddie. I am on a journey to learn as much as I can about everything!
 - :orange_book: [OdinProject](https://www.theodinproject.com/paths)
 - :books: [The Web Developer Bootcamp 2022 by Colt Steel](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
-🌍  I'm based in England! 
+🌍  I'm based in England
 <br>
 🔭 Computer Forensics and Security Graduate
 <br>
