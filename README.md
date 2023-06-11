@@ -8,8 +8,6 @@ My name is Maddie. I am on a journey to learn as much as I can about everything!
 
 🌍  I'm based in England
 <br>
-🔭 Computer Forensics and Security Graduate
-<br>
 ✉️  You can contact me at madscodes@gmail.com
 
 ### Skills
