@@ -3,7 +3,7 @@
 My name is Maddie. I am on a journey to learn as much as I can about everything!, working full time and studying programming in between
 
 - I'm currently pursuing a front-end developer roadmap using the following resources: 
-- :orange_book: [SheCodes - 20% discount code]([https://www.theodinproject.com/paths](https://www.shecodes.io/madscodes))
+- :orange_book: [SheCodes - 20% discount code](https://www.shecodes.io/madscodes)
 - :books: [The Web Developer Bootcamp 2022 by Colt Steel](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - 
 
